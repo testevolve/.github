@@ -1,10 +1,10 @@
 <p align="center"><img src="https://avatars.githubusercontent.com/u/84071724?s=400&u=69e113d91f93605b786dd3424d96f90b8f36c6fe&v=4" height="80" /></p>
 
-<h1 align="center">Test Evolve</h1>
+<h1 align="center">Test Evolve, Fast and Effective automated testing</h1>
 
 <p align="center">
 
-    ⊕ Write and run your first tests in minutes. 100% R.O.I in one sprint.
+    ⊕ Write and run your first tests in minutes. 100% R.O.I in one sprint
 
     ⊕ Desktop & Mobile Browser, Mobile Apps, Desktop Apps, API Testing
 
@@ -18,7 +18,7 @@
 
     ⊕ Performance & Security tool integrations
 
-    ⊕ Integrations - Browserstack, Sauce Labs, Kobiton, Perfecto, Percy, Applitools, Test Rail
+    ⊕ Integrations - Browserstack, Sauce Labs, Kobiton, Perfecto, Percy, Applitools, Test Rail and more
 </p>
 
 ## Overview
