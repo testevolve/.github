@@ -40,3 +40,7 @@ The solution is comprised of three parts:
 ## Schedule a demo
 
 Please [reach](https://www.testevolve.com/request-a-demo) out to us we love to chat about all things testing!
+
+## Free Trial
+
+Please follow [here](https://www.testevolve.com/thank-you-for-registering), to begin trialling Test Evolve!
