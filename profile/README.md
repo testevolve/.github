@@ -1,6 +1,6 @@
 <p align="center"><img src="https://avatars.githubusercontent.com/u/84071724?s=400&u=69e113d91f93605b786dd3424d96f90b8f36c6fe&v=4" height="80" /></p>
 
-<h1 align="center">Test Evolve, Fast and Effective automated testing</h1>
+<h1 align="center">Test Evolve, Fast and Effective Automated Testing</h1>
 
 <p align="center">
 
